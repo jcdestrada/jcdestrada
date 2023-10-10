@@ -1,5 +1,4 @@
-# Jun Carlo Estrada
-#####Calgary, AB T1Y 1L9 | +1 (825) 733-9603 | jcdestrada@gmail.com
+# [Jun Carlo Estrada](https://www.linkedin.com/in/juncarloestrada/)
 
 ##### SUMMARY
 -------------
@@ -28,8 +27,9 @@ Responsibilities:
 *  Assist with the management of organizational databases and retrieval systems.
 *  Collaborate using JIRA, Bitbucket and Confluence and provide updates in a timely manner.
 
-_Experiences Gained:_
-__Java, SpringBoot, MuleSoft Anypoint Platform, AWS S3, AWS Databases, Couchbase, RabbitMQ, BitBucket, PostMan, Oracle, AzureDB, Jenkins, JIRA, ServiceNow, Agile_
+Experiences Gained:
+Java, SpringBoot, MuleSoft Anypoint Platform, AWS S3, AWS Databases, Couchbase, RabbitMQ, BitBucket, PostMan, Oracle, AzureDB, Jenkins, JIRA, ServiceNow, Agile
+
 -----
 Senior Consultant   Mar 2021 – Mar 2022
 
@@ -49,8 +49,9 @@ Responsibilities:
 *  Responsible for business and technology support for tax, compliance, and other applications. 
 *  Collaborate using JIRA, GitHub Enterprise and Confluence and provide updates in a timely manner.
 
-_Experiences gained:_
-_Java, Spring, AWS S3, AWS ECS, AWS EC2, AWS IAM, AWS Databases, Couchbase, Redis, RabbitMQ, Docker, JIRA, GitHub Enterprise, Jenkins, Confluence, Agile, ServiceNow_
+Experiences gained:
+Java, Spring, AWS S3, AWS ECS, AWS EC2, AWS IAM, AWS Databases, Couchbase, Redis, RabbitMQ, Docker, JIRA, GitHub Enterprise, Jenkins, Confluence, Agile, ServiceNow
+
 -----
 Software Engineer   Sep 2020 - Feb 2021
 
@@ -69,8 +70,9 @@ Responsibilities:
 *  Develop and test software.
 *  Identify and resolve any technical issues arising.
 
-_Experiences gained:_
-_Java, Spring, quartz, AWS S3, AWS ECS, AWS EC2, PostgreSQL, Hazelcast, BitBucket, AngularJS, jQuery, PostMan, Agile_
+Experiences gained:
+Java, Spring, quartz, AWS S3, AWS ECS, AWS EC2, PostgreSQL, Hazelcast, BitBucket, AngularJS, jQuery, PostMan, Agile
+
 -----
 Apps Systems Engineer   Jun 2017 - Sep 2020
 
@@ -94,8 +96,9 @@ Responsibility
 *  Build features and applications with a mobile responsive design.
 *  Write technical documentation.
 
-_Experiences gained:_
-_Java, Spring, SpringBoot, Spring Batch, Spring Integration, Spring REST, Spring JPA, Maven, Gradle, AWS, GitHub, Angular 6, PrimeFaces, Oracle, SQLServer, Jenkins, Artifactory, PostMan, BlackBox Testing_
+Experiences gained:
+Java, Spring, SpringBoot, Spring Batch, Spring Integration, Spring REST, Spring JPA, Maven, Gradle, AWS, GitHub, Angular 6, PrimeFaces, Oracle, SQLServer, Jenkins, Artifactory, PostMan, BlackBox Testing
+
 -----
 Service Information Developer   Sep 2015 - Mar 2017
 
@@ -112,8 +115,9 @@ Responsibilities:
 *  Write, update, and maintain technical program, end user documentation and operational procedures.
 *  Provide advice, guidance, and expertise in developing proposals and strategies for software design activities such as financial evaluation and costing for recommending software purchases and upgrades.
 
-_Experiences gained:_
-_Java, Spring, Hibernate, jQuery, ajax, JavaScript, Oracle Web Center, Oracle PL/SQL_
+Experiences gained:
+Java, Spring, Hibernate, jQuery, ajax, JavaScript, Oracle Web Center, Oracle PL/SQL
+
 -----
 Application Engineer - Java Aug 2010 - Jun 2015
 
@@ -131,8 +135,9 @@ Responsibilities:
 *  Prepare and produce releases of software components.
 *  Resolve security vulnerabilities identified by cybersecurity tools.
 
-_Experiences gained:_
-_Java, Spring, Hibernate, Control M, Unix, Struts, XML, XSLT, Apache FOP, Oracle E-Business Suite (Oracle Application Framework), Oracle PL/SQL, UNIX, Jira, Jenkins, IBM Lotus Notes_
+Experiences gained:
+Java, Spring, Hibernate, Control M, Unix, Struts, XML, XSLT, Apache FOP, Oracle E-Business Suite (Oracle Application Framework), Oracle PL/SQL, UNIX, Jira, Jenkins, IBM Lotus Notes
+
 -----
 Software Engineer   Jun 2006 - Aug 2010
 
@@ -151,14 +156,16 @@ Responsibilities:
 *  Interacts with Production Team for Release to Production. 
 *  Interacts with other Client IT Teams for incidents resolution.
 
-_Experiences gained:_
-_J2EE, JSF 1.1, JavaScript, EJB 2.0, Oracle 10g, Core Spring, WebSphere Application Server, iReport, Rational Application Developer, Sun Java Studio Creator 2 Update 1, ANT, CVS, Rational ClearCase, Mercury Test Director, HP Quality Center, IBM WebSphere ESB, XSLT, XML, XPath, Oracle, DB2., IBM WebSphere MQ. iReport 3.7.1, Web Services, JBOSS, Hibernate, Spring Batch_
+Experiences gained:
+J2EE, JSF 1.1, JavaScript, EJB 2.0, Oracle 10g, Core Spring, WebSphere Application Server, iReport, Rational Application Developer, Sun Java Studio Creator 2 Update 1, ANT, CVS, Rational ClearCase, Mercury Test Director, HP Quality Center, IBM WebSphere ESB, XSLT, XML, XPath, Oracle, DB2., IBM WebSphere MQ. iReport 3.7.1, Web Services, JBOSS, Hibernate, Spring Batch
+
 -----
-#####EDUCATION
+##### EDUCATION
 Bachelor of Science (B.S.) - Information Technology Jun 2002 - May 2006
 Saint Louis University, Baguio City
+
 -----
-#####LICENSES & CERTIFICATIONS
+##### LICENSES & CERTIFICATIONS
 MuleSoft Certified Developer 1  2022
 MuleSoft
 
