@@ -1,12 +1,12 @@
-#Jun Carlo Estrada
+# Jun Carlo Estrada
 #####Calgary, AB T1Y 1L9 | +1 (825) 733-9603 | jcdestrada@gmail.com
 
-#####SUMMARY
+##### SUMMARY
 -------------
 
 I am an IT Professional, with 17 years of experience, 15 years in J2EE Technology, 2 years Angular development and 1 year in Integration using MuleSoft. I also have exposure to different industries, such as Finance, Insurance, Health, Telecommunication, Supply Chain and Automobile Club. I am both resourceful and adaptable, and I enjoy challenging work. Always open to ideas and willing to grasp opportunities. Quick and confident learner, results oriented, happy working as part of a team, or independently.
 
-#####EXPERIENCE
+##### EXPERIENCE
 ----------------
 
 Senior Consultant   Mar 2022 – Jul 2023
