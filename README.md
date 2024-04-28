@@ -3,11 +3,29 @@
 ##### SUMMARY
 -------------
 
-I am an IT Professional, with 17 years of experience, 15 years in J2EE Technology, 2 years Angular development and 1 year in Integration using MuleSoft. I also have exposure to different industries, such as Finance, Insurance, Health, Telecommunication, Supply Chain and Automobile Club. I am both resourceful and adaptable, and I enjoy challenging work. Always open to ideas and willing to grasp opportunities. Quick and confident learner, results oriented, happy working as part of a team, or independently.
+I am an IT Professional, with 17 years of experience, 15 years in J2EE Technology, 2 years Angular development and 1 year in Integration using TIBCO, MuleSoft and Boomi. I have worked with Cloud Platforms, such as Amazon Web Service and Microsoft Azure.  I also have exposure to different industries, such as Finance, Insurance, Health, Telecommunication, Supply Chain and Automobile Club. I am both resourceful and adaptable, and I enjoy challenging work. Always open to ideas and willing to grasp opportunities. Quick and confident learner, results oriented, happy working as part of a team, or independently.
 
 ##### EXPERIENCE
 ----------------
 
+IT Senior Systems Analyst Nov 2023 - Present
+
+The City of Calgary
+
+Roles: Enterprise Integration Architect
+
+Responsibilities
+*  Serve as a liaison between the business units and the IT organization to provide enterprise integration solutions to meet user needs.
+*  Define, create and update standards, best practices, guidelines and frameworks for enterprise integration.
+*  Ensure solutions adhere to established procedures, standards and best practices.
+*  Maintain data integrity and availability, promote automation, reuse and alignment with existing architectures and frameworks.
+*  Provide design, development, integration and operational support for the integration platform, technologies, tools and processes.
+*  Act as a subject matter expert for the enterprise integration area.
+
+Experiences Gained:
+TIBCO Business Works 5.11 and 6.9, TIBCO TEA, TIBCO EMS 10.1, NGINX, Microsoft Azure, Azure LogicApps, Azure API Management, Azure App Registration, Microsoft Entra ID, Red Hat Enterprise Linux, Windows Server
+
+-----
 Senior Consultant   Mar 2022 – Jul 2023
 
 Deloitte
